@@ -1,0 +1,6 @@
+/Users/milo/Projects/100_remainders/100_remainders/obj/x86/Debug/100_remainders.csprojAssemblyReference.cache
+/Users/milo/Projects/100_remainders/100_remainders/obj/x86/Debug/100_remainders.csproj.CoreCompileInputs.cache
+/Users/milo/Projects/100_remainders/100_remainders/bin/Debug/100_remainders.exe
+/Users/milo/Projects/100_remainders/100_remainders/bin/Debug/100_remainders.pdb
+/Users/milo/Projects/100_remainders/100_remainders/obj/x86/Debug/100_remainders.exe
+/Users/milo/Projects/100_remainders/100_remainders/obj/x86/Debug/100_remainders.pdb

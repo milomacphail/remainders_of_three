@@ -1,0 +1,14 @@
+{
+  "ProjectFilePath": "/Users/milo/Projects/100_remainders/100_remainders/100_remainders.csproj",
+  "TargetFramework": "v4.7",
+  "TagHelpers": [],
+  "Configuration": {
+    "ConfigurationName": "UnsupportedRazor",
+    "LanguageVersion": "1.0",
+    "Extensions": [
+      {
+        "ExtensionName": "UnsupportedRazorExtension"
+      }
+    ]
+  }
+}
